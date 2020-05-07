@@ -27,6 +27,9 @@
     <ClCompile Include="block.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="scoreBoard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="game.h">
@@ -36,6 +39,30 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="block.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="blockType1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="blockType2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="blockType3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="blockType4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="blockType5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="blockType6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="blockType7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="scoreBoard.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

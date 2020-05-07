@@ -127,11 +127,20 @@
     <ClCompile Include="game.cpp" />
     <ClCompile Include="grid.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="scoreBoard.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="block.h" />
+    <ClInclude Include="blockType1.h" />
+    <ClInclude Include="blockType2.h" />
+    <ClInclude Include="blockType3.h" />
+    <ClInclude Include="blockType4.h" />
+    <ClInclude Include="blockType5.h" />
+    <ClInclude Include="blockType6.h" />
+    <ClInclude Include="blockType7.h" />
     <ClInclude Include="game.h" />
     <ClInclude Include="grid.h" />
+    <ClInclude Include="scoreBoard.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
